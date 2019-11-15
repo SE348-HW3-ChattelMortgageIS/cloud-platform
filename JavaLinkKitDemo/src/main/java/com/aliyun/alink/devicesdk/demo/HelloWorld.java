@@ -121,9 +121,9 @@ public class HelloWorld {
     public void executeScheduler(DeviceInfoData deviceInfoData) {
         thingTestManager.readData(System.getProperty("user.dir") + "/test_case.json");
 //        thingTestManager.setServiceHandler();
-        testMqtt();
-        testLabel();
-        testCota();
+//        testMqtt();
+//        testLabel();
+//        testCota();
         // 测试网关子设备管理功能，高级版功能
 //        testGateway(deviceInfoData);
 
@@ -144,7 +144,7 @@ public class HelloWorld {
 
         ThreadPool.scheduleAtFixedRate(new Runnable() {
             public void run() {
-                thingTestManager.report();
+                thingTestManager.readData(System.getProperty("user.dir") + "/test_case.json");thingTestManager.report();
             }
         }, 3, 5, TimeUnit.SECONDS);
     }
