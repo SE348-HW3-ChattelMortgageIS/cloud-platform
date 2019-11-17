@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b09bfc72-a876-4d8c-abeb-23ab2d40db8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/aliyun/alink/devicesdk/demo/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aliyun/alink/devicesdk/demo/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaLinkKitDemo-1.0.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/JavaLinkKitDemo-1.0.0-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaLinkKitDemo-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/JavaLinkKitDemo-1.0.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/aliyun/alink/devicesdk/demo/HelloWorld$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/aliyun/alink/devicesdk/demo/HelloWorld$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/aliyun/alink/devicesdk/demo/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/aliyun/alink/devicesdk/demo/HelloWorld.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +103,13 @@
       <updated>1573708862302</updated>
       <workItem from="1573708863612" duration="3320000" />
       <workItem from="1573713162400" duration="6786000" />
-      <workItem from="1573783148841" duration="244000" />
+      <workItem from="1573783148841" duration="1020000" />
+      <workItem from="1573796752951" duration="264000" />
+      <workItem from="1573798121886" duration="622000" />
+      <workItem from="1573814532381" duration="888000" />
+      <workItem from="1573992727403" duration="10000" />
+      <workItem from="1573992782533" duration="26000" />
+      <workItem from="1574001435860" duration="106000" />
     </task>
     <servers />
   </component>
@@ -120,7 +121,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
