@@ -3,23 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b09bfc72-a876-4d8c-abeb-23ab2d40db8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/aliyun/alink/devicesdk/demo/ThingSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aliyun/alink/devicesdk/demo/ThingSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaLinkKitDemo-1.0.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/JavaLinkKitDemo-1.0.0-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/JavaLinkKitDemo-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/JavaLinkKitDemo-1.0.0.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_case.json" beforeDir="false" afterPath="$PROJECT_DIR$/test_case.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebLinkKitDemo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebLinkKitDemo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebLinkKitDemo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebLinkKitDemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebLinkKitDemo/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebLinkKitDemo/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebLinkKitDemo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebLinkKitDemo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebLinkKitDemo/src/main/java/com/example/demo/controller/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebLinkKitDemo/src/main/java/com/example/demo/service/getMessageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebLinkKitDemo/src/main/java/com/example/demo/service/getMessageServiceimpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebLinkKitDemo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebLinkKitDemo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +118,7 @@
       <workItem from="1574320328446" duration="5000" />
       <workItem from="1574408457323" duration="1086000" />
       <workItem from="1574471823243" duration="13000" />
-      <workItem from="1574490087927" duration="4212000" />
+      <workItem from="1574490087927" duration="5010000" />
     </task>
     <servers />
   </component>
