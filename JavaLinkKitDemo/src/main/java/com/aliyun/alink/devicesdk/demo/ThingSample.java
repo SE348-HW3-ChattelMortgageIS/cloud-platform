@@ -179,6 +179,7 @@ public class ThingSample extends BaseSample {
                         }
                         String idKey = (String) specsItem.get("identifier");
                         String dataType = (String) ((Map) specsItem.get("dataType")).get("type");
+                        System.out.print(dataType);
                         if (idKey != null && dataJson.has(idKey) && dataType != null) {
                             ValueWrapper valueItem = null;
                             if ("int".equals(dataType)) {
