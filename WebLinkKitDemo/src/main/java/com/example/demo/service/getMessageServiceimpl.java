@@ -57,7 +57,7 @@ public class getMessageServiceimpl implements  getMessageService {
 
             }
         });
-        messageClient.setMessageListener("/${a1UJLmxdlhK}/#",messageCallback);
+        messageClient.setMessageListener("/a1UJLmxdlhK/#",messageCallback);
     }
 
 

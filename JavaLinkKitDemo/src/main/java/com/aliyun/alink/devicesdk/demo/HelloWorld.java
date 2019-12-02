@@ -120,28 +120,6 @@ public class HelloWorld {
      */
     public void executeScheduler(DeviceInfoData deviceInfoData) {
         thingTestManager.readData(System.getProperty("user.dir") + "/test_case.json");
-//        thingTestManager.setServiceHandler();
-//        testMqtt();
-//        testLabel();
-//        testCota();
-        // 测试网关子设备管理功能，高级版功能
-//        testGateway(deviceInfoData);
-
-        // 测试获取设备影子，基础版功能，注意不能与高级版共用
-//        testDeviceShadow();
-//        // test deinit
-//        if (!testDeinit) {
-//            testDeinit = true;
-//            try {
-//                Thread.sleep(5*1000);
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//           deinit();
-//            HelloWorld helloWorld = new HelloWorld();
-//            helloWorld.init(deviceInfoData);
-//        }
-
         ThreadPool.scheduleAtFixedRate(new Runnable() {
             public void run() {
                 thingTestManager.readData(System.getProperty("user.dir") + "/test_case.json");thingTestManager.report();
